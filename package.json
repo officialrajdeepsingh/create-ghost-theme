@@ -1,7 +1,7 @@
 {
 	"name": "create-ghost-theme",
 	"description": "create-ghost-theme help to create a basis boilerplate theme for ghost theme developer",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"license": "MIT",
 	"type": "commonjs",
 	"private": false,
