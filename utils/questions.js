@@ -34,7 +34,7 @@ module.exports = async () => {
 	const authorUrl = await ask({
 		name: `authorUrl`,
 		message: `What is a author URL?`,
-		initial:"https://www.npmjs.com/~officialrajdeepsingh"
+		initial:"https://officialrajdeepsingh.dev/"
 	});
 	const packageManager = await ask({
 		name: `packageManager`,
