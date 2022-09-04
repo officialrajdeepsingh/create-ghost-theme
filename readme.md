@@ -40,4 +40,4 @@ To start working with tailwindcss, you must run a separate server with postcss a
 `create-ghost-theme --help` to read all avilable command.
 
 ## report bugs 
-You face any bug feel free to [Submit us](https://www.google.com)
+You face any bug feel free to [Submit us](https://github.com/officialrajdeepsingh/create-ghost-theme/discussions/categories/bug)
