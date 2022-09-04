@@ -1,11 +1,11 @@
 {
 	"name": "create-ghost-theme",
 	"description": "create-ghost-theme help to create a basis boilerplate theme for ghost theme developer",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"license": "MIT",
 	"private": false,
 	"bin": {
-		"create-ghost-theme": "build.js"
+		"create-ghost-theme": "index.js"
 	},
 	"author": {
 		"name": "Rajdeep singh",
